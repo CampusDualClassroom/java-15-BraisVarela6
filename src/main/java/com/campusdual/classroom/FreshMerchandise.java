@@ -47,4 +47,5 @@ public class FreshMerchandise extends Merchandise {
     public SimpleDateFormat getSdf() {
         return sdf;
     }
+
 }
